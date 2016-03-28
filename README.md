@@ -1,2 +1,2 @@
 # NetOS
-A continuation of eyeOS after 2.6 was taken from open source
+A continuation of eyeOS 2.5
